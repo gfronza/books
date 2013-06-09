@@ -1,0 +1,6 @@
+[submodule "vendor/the-little-redis-book"]
+	path = vendor/the-little-redis-book
+	url = https://github.com/karlseguin/the-little-redis-book.git
+[submodule "vendor/the-little-mongodb-book"]
+	path = vendor/the-little-mongodb-book
+	url = https://github.com/karlseguin/the-little-mongodb-book
