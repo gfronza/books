@@ -4,7 +4,7 @@ books
 It prepares everything you need to build ebooks.
 
 
-Preparing the builg environtment
+Preparing the build environment
 ================================
 
 1. Download Vagrant (http://www.vagrantup.com/).
